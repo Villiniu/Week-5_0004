@@ -149,3 +149,4 @@ public class tugas {
         return Math.sqrt(inside);
     }
 }
+
